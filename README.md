@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Tehbb3/Tehbb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="250" src="https://tehbb.xyz/img/github_readme_image.jpg"/>
 
-Here are some ideas to get you started:
+```diff
+Am Tehbb.
++ Developer
++ Reverse enigneering, server administration.
+- Lives in Australia
+- 15, Self taught programmer
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff 
+! Html, CSS, JavaScript, Node.js, SQL, python, 
+! Arduino C, Batch and SH scripting , linux command line
+```
+<br>
+
+![](https://hit.yhype.me/github/profile?user_id=62781302)
