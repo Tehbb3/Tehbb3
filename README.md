@@ -1,5 +1,5 @@
-
 <img align="right" height="250" src="https://tehbb.xyz/img/github_readme_image.jpg"/>
+<!-- this image is not mine btw and idk where I found it --->
 
 ```diff
 Am Tehbb.
@@ -14,5 +14,19 @@ Am Tehbb.
 ! Arduino C, Batch and SH scripting , linux command line
 ```
 <br>
+
+What im probably working on:
+-
+- A random commission
+- My site ([tehbb.xyz](https://tehbb.xyz))
+- Something dumb
+
+Contact:
+-
+- Discord: Tehbb#5193
+- somewhere else if you can find me
+
+Dms open for commissions, or if you just want to chat
+
 
 ![](https://hit.yhype.me/github/profile?user_id=62781302)
