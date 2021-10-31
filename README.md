@@ -13,6 +13,7 @@ Am Tehbb.
 ! Html, CSS, JavaScript, Node.js, SQL, python, 
 ! Arduino C, Batch and SH scripting , linux command line
 ```
+![](https://komarev.com/ghpvc/?username=tehbb3) + about 164 views
 <br>
 
 What im probably working on:
