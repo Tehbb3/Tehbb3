@@ -13,8 +13,9 @@ Am Tehbb.
 ! Html, CSS, JavaScript, Node.js, SQL, python, 
 ! Arduino C, Batch and SH scripting , linux command line
 ```
-![](https://komarev.com/ghpvc/?username=tehbb3) + about 164 views
+![](https://komarev.com/ghpvc/?username=tehbb3)
 <br>
+Idk why i bothered seting up a private git server and using that for so long, github is so mutch better tbh
 
 What im probably working on:
 -
