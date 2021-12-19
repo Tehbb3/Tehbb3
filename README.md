@@ -10,12 +10,12 @@ Am Tehbb.
 ```
 
 ```diff 
-! Html, CSS, JavaScript, Node.js, SQL, python, 
-! Arduino C, Batch and SH scripting , linux command line
+! Html, CSS, JavaScript, Node.js, C++, SQL, python, 
+! Batch and SH scripting , linux command line
 ```
 ![](https://komarev.com/ghpvc/?username=tehbb3)
 <br>
-Idk why i bothered seting up a private git server and using that for so long, github is so mutch better tbh
+Why did i use a private git server for so long ;-;
 
 What im probably working on:
 -
