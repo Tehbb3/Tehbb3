@@ -1,4 +1,4 @@
-<img align="right" height="250" src="https://tehbb.xyz/img/github_readme_image.jpg"/>
+<img align="right" height="250" src="https://tehbb.xyz/assets/img/github_readme_image.jpg"/>
 <!-- this image is not mine btw and idk where I found it --->
 
 ```diff
