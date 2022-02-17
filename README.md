@@ -1,35 +1,38 @@
-<img align="right" height="250" src="https://tehbb.xyz/assets/img/github_readme_image.jpg"/>
+<img align="right" height="300" src="https://tehbb.xyz/assets/img/github_readme_image.jpg"/>
 <!-- this image is not mine btw and idk where I found it --->
 
 ```diff
 Am Tehbb.
-+ Developer
-+ Reverse enigneering, server administration.
++ Experienced developer
++ Authorised technician
 - Lives in Australia
 - 15, Self taught programmer
 ```
 
 ```diff 
-! Html, CSS, JavaScript, Node.js, C++, SQL, python, 
-! Batch and SH scripting , linux command line
+! Html, CSS, JavaScript, PHP, Node.js, C++, C, SQL, python, 
+! Batch and SH scripting, linux command line
+! Probably forgetting something else
 ```
 ![](https://komarev.com/ghpvc/?username=tehbb3)
-<br>
-Why did i use a private git server for so long ;-;
+<!-- <br> -->
+Still considering weather to use github or a private git server :/
 
 What im probably working on:
 -
-- LoRa Dynamic Mesh Network Protocol
-- A random commission
-- My site ([tehbb.xyz](https://tehbb.xyz))
-- Something dumb
+- Commercial complete tech workshop managment tool
+- Long range mesh wireless network protocol for web api's
+- Hard drive data recovery tool
+- Some random web thing
+- Something i shouldent be doing hehe
 
 Contact:
 -
 - Discord: Tehbb#5193
+- Email: *coming soon* gonna get another vps
 - somewhere else if you can find me
 
-Dms open for commissions, or if you just want to chat
+Dms open for whatever
 
-
+<!-- page stactistic tracker, older -->
 ![](https://hit.yhype.me/github/profile?user_id=62781302)
