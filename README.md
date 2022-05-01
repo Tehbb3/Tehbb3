@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://tehbb.xyz/assets/img/github_readme_image.jpg"/>
+<img align="right" height="300" src="https://cdn.discordapp.com/attachments/890282402008686622/970206730048901120/github_readme_image.jpg"/>
 <!-- this image is not mine btw and idk where I found it --->
 
 ```diff
@@ -6,15 +6,19 @@ Am Tehbb.
 + Experienced developer
 + Authorised technician
 - Lives in Australia
-- 15, Self taught programmer
+- 16, Self taught programmer
 ```
 
 ```diff 
-! Html, CSS, JavaScript, PHP, Node.js, C++, C, SQL, python, 
-! Batch and SH scripting, linux command line
-! Probably forgetting something else
+! Html, CSS, JavaScript, PHP,
+! Node.js, TypeScript, C++, C, SQL, python,
+! Batchfile, *sh script
 ```
-![](https://komarev.com/ghpvc/?username=tehbb3)
+<!-- ![](https://komarev.com/ghpvc/?username=tehbb3) -->
+
+<img align="right" src="https://komarev.com/ghpvc/?username=tehbb3"/>
+
+
 <!-- <br> -->
 Still considering weather to use github or a private git server :/
 
