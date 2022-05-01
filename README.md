@@ -11,7 +11,7 @@ Am Tehbb.
 
 ```diff 
 ! Html, CSS, JavaScript, PHP,
-! Node.js, TypeScript, C++, C, SQL, python,
+! Node.js, TypeScript, C++, C, SQL, python, Lua,
 ! Batchfile, *sh script
 ```
 <!-- ![](https://komarev.com/ghpvc/?username=tehbb3) -->
