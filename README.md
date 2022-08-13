@@ -4,39 +4,34 @@
 ```diff
 Am Tehbb.
 + Experienced developer
-+ Authorised technician
++ Working as authorised technician
 - Lives in Australia
-- 16, Self taught programmer
+- Self taught sotware engineer
 ```
 
 ```diff 
-! Html, CSS, JavaScript, PHP,
-! Node.js, TypeScript, C++, C, SQL, python, Lua,
-! Batchfile, *sh script
++ Html, CSS, JavaScript, PHP, .NET, vb
++ Node.js, TypeScript, C++, C, SQL, python, Lua
++ Batchfile, *sh script, Docker
+! ReactJS, Redux, ExpressJS, DiscordJS
+! MySQL, MariaDB, MongoDB
+- Windows, Debian, Void, Alpine, Ubuntu, Arch, DSL
+- ReadyNAS, TrueNAS, Samba
 ```
-<!-- ![](https://komarev.com/ghpvc/?username=tehbb3) -->
+<!-- <br> -->
 
 <img align="right" src="https://komarev.com/ghpvc/?username=tehbb3"/>
+<!-- ![](https://komarev.com/ghpvc/?username=tehbb3) -->
 
+---
 
-<!-- <br> -->
-Still considering weather to use github or a private git server :/
+Basically, ive played with too much stuff :/
+<br>
 
-What im probably working on:
--
-- Commercial complete tech workshop managment tool
-- Long range mesh wireless network protocol for web api's
-- Hard drive data recovery tool
-- Some random web thing
-- Something i shouldent be doing hehe
-
-Contact:
--
+### Contact:
 - Discord: Tehbb#5193
-- Email: *coming soon* gonna get another vps
-- somewhere else if you can find me
 
-Dms open for whatever
+Dms open .-.
 
 <!-- page stactistic tracker, older -->
 ![](https://hit.yhype.me/github/profile?user_id=62781302)
