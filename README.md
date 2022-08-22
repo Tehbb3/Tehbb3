@@ -3,20 +3,19 @@
 
 ```diff
 Am Tehbb.
-+ Working as technician
-+ Software Engineer
++ Software engineer
++ Hardware technician
+- Reverse engineering
 - Lives in Australia
-- Self taught sotware engineer
+- In school .-.
 ```
 
 ```diff 
 + Html, CSS, JavaScript, PHP, .NET, vb
 + Node.js, TypeScript, C++, C, SQL, python, Lua
-+ Batchfile, *sh script, Docker
 ! ReactJS, Redux, ExpressJS, DiscordJS
 ! MySQL, MariaDB, MongoDB
-- Windows, Debian, Void, Alpine, Ubuntu, Arch, DSL
-- ReadyNAS, TrueNAS, Samba
+- Windows, Debian, Void, Alpine, Ubuntu, Arch, BusyBox, DSL, ReadyNAS, TrueNAS, OpenWRT
 ```
 <!-- <br> -->
 
