@@ -3,8 +3,8 @@
 
 ```diff
 Am Tehbb.
-+ Experienced developer
-+ Working as authorised technician
++ Working as technician
++ Software Engineer
 - Lives in Australia
 - Self taught sotware engineer
 ```
