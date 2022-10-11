@@ -23,12 +23,10 @@ Am Tehbb.
 <!-- ![](https://komarev.com/ghpvc/?username=tehbb3) -->
 
 ---
-
-Basically, ive played with too much stuff :/
-<br>
-
-### Contact:
+### Places:
 - Discord: Tehbb#5193
+- Email  : admin@tehbb.xyz
+- Site   : [tehbb.xyz](https://tehbb.xyz)
 
 
 <!-- page stactistic tracker, older -->
