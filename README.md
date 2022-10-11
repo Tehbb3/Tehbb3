@@ -30,7 +30,6 @@ Basically, ive played with too much stuff :/
 ### Contact:
 - Discord: Tehbb#5193
 
-Dms open .-.
 
 <!-- page stactistic tracker, older -->
 ![](https://hit.yhype.me/github/profile?user_id=62781302)
