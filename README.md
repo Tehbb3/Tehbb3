@@ -11,9 +11,9 @@ Am Tehbb.
 ```
 
 ```diff 
-+ Html, CSS, JavaScript, PHP, .NET, vb
++ Html, CSS, JavaScript, PHP, .NET, vb, Batchfile, *SH
 + Node.js, TypeScript, C++, C, SQL, python, Lua
-! ReactJS, Redux, ExpressJS, DiscordJS
+! ReactJS, VueJS, Redux, ExpressJS, DiscordJS...
 ! MySQL, MariaDB, MongoDB
 - Windows, Debian, Void, Alpine, Ubuntu, Arch, Embedded, DSL, TrueNAS...
 ```
