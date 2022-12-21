@@ -15,7 +15,7 @@ Am Tehbb.
 + Node.js, TypeScript, C++, C, SQL, python, Lua
 ! ReactJS, Redux, ExpressJS, DiscordJS
 ! MySQL, MariaDB, MongoDB
-- Windows, Debian, Void, Alpine, Ubuntu, Arch, BusyBox, DSL, TrueNAS...
+- Windows, Debian, Void, Alpine, Ubuntu, Arch, Embedded, DSL, TrueNAS...
 ```
 <!-- <br> -->
 
