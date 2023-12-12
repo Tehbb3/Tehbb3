@@ -24,7 +24,7 @@ Am Tehbb.
 
 ---
 ### Places:
-- Discord: Tehbb#5193
+- Discord: Tehbb
 - Email  : admin@tehbb.xyz
 - Site   : [tehbb.xyz](https://tehbb.xyz)
 
