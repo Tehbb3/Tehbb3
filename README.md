@@ -7,7 +7,6 @@ Am Tehbb.
 + Hardware technician
 - Reverse engineering
 - Lives in Australia
-- In school .-.
 ```
 
 ```diff 
