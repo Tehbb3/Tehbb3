@@ -10,8 +10,8 @@
         <br>
         Im in Australia currently.<br>
         <br>
-        I find problems and fix them.<br>
-        <b>There is always a way to fix something.</b><br>
+        <br>
+        <b>Probably building somehting</b><br>
         <br>
         <br>
         <br>
